@@ -1,3 +1,5 @@
-﻿Report.html
+Report.html
 last_scan.json
+*.tmp
+*.log
 .vscode/
