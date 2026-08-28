@@ -1,0 +1,16 @@
+{
+  "ScanSettings": {
+    "TasksLimit": 15,
+    "HistorySnapshotFile": "last_scan.json"
+  },
+  "ScoreWeights": {
+    "Firewall": 15,
+    "Defender": 15,
+    "BitLocker": 15,
+    "UAC": 10,
+    "LsassPPL": 15,
+    "PowerShellLogging": 10,
+    "ControlledFolderAccess": 10,
+    "NoUnsignedListeners": 10
+  }
+}
